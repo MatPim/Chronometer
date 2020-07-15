@@ -1,0 +1,14 @@
+#chronometerText{
+    font-size: 100px;
+}
+#chronometer{
+    align-items: center;
+    margin-left: calc(50% - 420.7px/2);
+    
+}
+#button1{
+    margin-left: calc(50% - 134.63px/2);
+}
+.jumbotron{
+    text-align: center;
+}
